@@ -20,7 +20,7 @@
  "js": ["content.js"]
  }
 ],
-"permissions": ["tabs","bookmarks"],
+"permissions": ["tabs"],
 "background": {
  "scripts": ["background.js"]
 }

@@ -20,10 +20,8 @@
  "js": ["content.js"]
  }
 ],
-"permissions": ["tabs"],
+"permissions": ["tabs","bookmarks"],
 "background": {
  "scripts": ["background.js"]
-},
-
-"content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'"
+}
 }
